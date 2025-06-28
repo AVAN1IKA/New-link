@@ -6,7 +6,6 @@ num2 = float(input("Enter the second number: "))
 product = num1 * num2
 
 print("The product is:", product)
-<<<<<<< HEAD
 
 
 
