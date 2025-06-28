@@ -2,6 +2,8 @@
 
 #DIGI_CLOCK
 
+#WE USED TERMINAL FOR BY RIGHT CLICK FOR RUNNING OUTPUT 
+
 import time
 while True:
     print(time.strftime("%H:%M:%S"), end="\r")
